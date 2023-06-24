@@ -1,0 +1,12 @@
+{
+  "Logging": {
+    "LogLevel": {
+      "Default": "Information",
+      "Microsoft": "Warning",
+      "Microsoft.Hosting.Lifetime": "Information"
+    }
+  },
+  "ConnectionStrings": {
+    "n5-challenge": "Data Source=localhost;Initial Catalog=N5PermissionUser;User ID=n5permission;Passwrod=N5Permi*;TrustServerCertificate=True"
+  }
+}
